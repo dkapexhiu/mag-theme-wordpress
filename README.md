@@ -1,4 +1,4 @@
-# mag-theme-wordpress
+# MAG Theme Wordpress
 
 Theme Name: Mag Theme Wordpress<br>
 Author: github.com/dkapexhiu<br>
