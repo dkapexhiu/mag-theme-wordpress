@@ -1,0 +1,6 @@
+<div class="widget">
+<?php  if(is_active_sidebar('sidebar')) : ?>
+  <?php  dynamic_sidebar('sidebar'); ?>
+<?php endif; ?>
+<div class="clear"></div>
+</div>
